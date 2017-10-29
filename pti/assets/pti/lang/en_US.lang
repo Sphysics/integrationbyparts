@@ -1,15 +1,13 @@
-
 item.pti.blend.name=Blend
 item.pti.shard.name=Shard
 item.pti.crystal.name=Bedrock Crystal
 item.pti.brick.name=Brick
-item.pti.empowered_aluminum.name=Empowered Cyan Aluminum
-item.pti.empowered_copper.name=Empowered Black Copper
-item.pti.empowered_steel.name=Empowered Steel
-item.pti.empowered_dilithiumredsteel.name=Empowered Dilithium Red Steel
-item.pti.empowered_lead.name=Empowered Green Lead
-item.pti.empowered_silver.name=Empowered Blue Silver
-item.pti.empowered_gold.name=Empowered White Gold
+item.pti.empoweredAluminum.name=Empowered Cyan Aluminum Ingot
+item.pti.empoweredCopperIngot.name=Empowered Black Copper Ingot
+item.pti.empoweredSteelIngot.name=Empowered Red Steel Ingot
+item.pti.empoweredLeadIngot.name=Empowered Green Lead Ingot
+item.pti.empoweredSilverIngot.name=Empowered Blue Silver Ingot
+item.pti.empoweredGoldIngot.name=Empowered White Gold Ingot
 tile.pti.blockcasing_livingrock.name=Livingrock Casing
 tile.pti.blockcasing_blackquartz.name=Black Quartz Casing
 tile.pti.blockcasing_ember.name=Crystal Casing
